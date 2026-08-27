@@ -1,8 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.fudu4753_byte.twa",
-    "sha256_cert_fingerprints": ["1F:B2:01:81:CD:FB:0A:BB:9E:12:DC:98:0E:7A:00:7F:A4:8C:A7:B3:9E:24:C2:6E:0C:34:FD:CF:8E:6E:1B:E9"]
-  }
-}]
